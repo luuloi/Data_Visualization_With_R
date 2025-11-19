@@ -3,10 +3,10 @@
 ### Location: Auditorium at level 6th
 
 [**00.0 Introduction to Data Visualizaion [Loi] - 19/11/2025**](Lecture_00/)
-- [PDF](Lecture_00/Lecture_00_2025Nov02.pdf)
+- [PDF](Lecture_00/DV_Lecture 1_Introduction.pdf)
 - [Book](Book/)
 
-[**00.1 Practice [Dan] - 02/11/2025**]
+[**00.1 Practice [Dan] - 19/11/2025**]
 - [PDF](Lecture_00/Ubuntu_and_basic_Linux_command_part1_and_part2.pdf)
 - Installation R & Rstudio
 - Basic R
