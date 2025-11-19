@@ -3,7 +3,7 @@
 ### Location: Auditorium at level 6th
 
 [**00.0 Introduction to Data Visualizaion [Loi] - 19/11/2025**](Lecture_00/)
-- [PDF](Lecture_00/DV_Lecture 1_Introduction.pdf)
+- [PDF](Lecture_00/DV_Lecture_00_Introduction.pdf)
 - [Book](Book/)
 
 [**00.1 Practice [Dan] - 19/11/2025**]
