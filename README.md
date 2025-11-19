@@ -4,7 +4,7 @@
 
 [**00.0 Introduction to Data Visualizaion [Loi] - 19/11/2025**](Lecture_00/)
 - [PDF](Lecture_00/DV_Lecture_00_Introduction.pdf)
-- [Book](Book/)
+- [Book](Book/) \
 
 [**00.1 Practice [Dan] - 19/11/2025**]
 - [PDF](Lecture_00/Ubuntu_and_basic_Linux_command_part1_and_part2.pdf)
