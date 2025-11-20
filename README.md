@@ -11,6 +11,6 @@
 - Installation R & Rstudio
 - Basic R
 - Introduction to Google Colab 
-- Practice: [![Open In Colab]([https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E#scrollTo=3b573760](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E#scrollTo=3b573760))
+- Practice: [![Open In Colab]([[https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E#scrollTo=3b573760](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E#scrollTo=3b573760)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing))
 
 
