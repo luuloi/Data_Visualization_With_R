@@ -19,6 +19,6 @@
 
 [**01.1 Practice [Dan] - 10/12/2025**](Lecture_01/)
 - [PDF](Lecture_01/)
-- [Data for Practice 1]()
-- Practice 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- [Data for Practice 1](https://docs.google.com/spreadsheets/d/1EoR0utDWavvNpzajMU4QCW8oGxBxkxlQqVE-yNui-g4/edit?usp=sharing)
+- Practice 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XpvLyFzHyQkMnrMmZyEMx-tBx6Qr6tYo#scrollTo=uKInmSZdYuaO)
 
