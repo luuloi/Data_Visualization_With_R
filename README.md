@@ -15,10 +15,10 @@
 
 
 [**01.0 Boxplot and its Variants [Loi] - 10/12/2025**](Lecture_01/)
-- [PDF](Lecture_01/) 
+- [PDF](Lecture_01/DV_Leture_01_Boxplot_and_its_variants_final.pdf) 
 
 [**01.1 Practice [Dan] - 10/12/2025**](Lecture_01/)
 - [PDF](Lecture_01/)
 - [Data for Practice 1](https://docs.google.com/spreadsheets/d/1EoR0utDWavvNpzajMU4QCW8oGxBxkxlQqVE-yNui-g4/edit?usp=sharing)
 - Practice 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XpvLyFzHyQkMnrMmZyEMx-tBx6Qr6tYo#scrollTo=uKInmSZdYuaO)
-
+- [Data for Practice 2](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?select=framingham.csv)
