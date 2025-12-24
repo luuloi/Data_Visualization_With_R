@@ -24,4 +24,4 @@
 - [Data for Practice 2](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?select=framingham.csv)
 
 [**02.1 Practice - 24/12/2025**]
-- Practice 2: [[![Open In Colab](https://colab.research.google.com/drive/1cNF8wBMGcra6Nri_0EYCxKa5sXpoxdxc#scrollTo=2ne86d4R4ylU)](https://colab.research.google.com/drive/1cNF8wBMGcra6Nri_0EYCxKa5sXpoxdxc#scrollTo=BBrQHhDw8Qqw)
+- Practice 2: [[![Open In Colab]](https://colab.research.google.com/drive/1cNF8wBMGcra6Nri_0EYCxKa5sXpoxdxc#scrollTo=BBrQHhDw8Qqw)
