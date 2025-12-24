@@ -22,3 +22,6 @@
 - [Data for Practice 1](https://docs.google.com/spreadsheets/d/1EoR0utDWavvNpzajMU4QCW8oGxBxkxlQqVE-yNui-g4/edit?usp=sharing)
 - Practice 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XpvLyFzHyQkMnrMmZyEMx-tBx6Qr6tYo#scrollTo=uKInmSZdYuaO)
 - [Data for Practice 2](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?select=framingham.csv)
+
+[**02.1 Practice [Dan] - 24/12/2025**](Lecture_01/)
+- Practice 2: [![Open In Colab](https://colab.research.google.com/drive/1cNF8wBMGcra6Nri_0EYCxKa5sXpoxdxc#scrollTo=2ne86d4R4ylU)
