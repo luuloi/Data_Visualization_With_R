@@ -13,7 +13,6 @@
 - Introduction to Google Colab 
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing)
 
-
 [**01.0 Boxplot and its Variants [Loi] - 10/12/2025**](Lecture_01/)
 - [PDF](Lecture_01/DV_Leture_01_Boxplot_and_its_variants_final.pdf) 
 
@@ -23,8 +22,14 @@
 - Practice 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XpvLyFzHyQkMnrMmZyEMx-tBx6Qr6tYo#scrollTo=uKInmSZdYuaO)
 - [Data for Practice 2](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?select=framingham.csv)
 
+[**02.0 Histogram [Loi] - 10/12/2025**](Lecture_02/)
+- [PDF](Lecture_02/DV_Leture_02_Histogram.pdf)
+  
 [**02.1 Practice - 24/12/2025**]
 - Data for Practice2 (1000 samples) :[DATA: sample size 1000](https://github.com/luuloi/Data_Visualization_With_R/blob/main/work.csv)
 - Data for Practice2 (10,000 samples) :[DATA: sample size 10,000](https://github.com/luuloi/Data_Visualization_With_R/blob/main/work_10000.csv)
 - Practice 2.1 (1000 samples): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cNF8wBMGcra6Nri_0EYCxKa5sXpoxdxc?usp=sharing)
 - Practice 2.2 (10,000 samples): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19oGLPQEbKkR_kl9Uc5jlpGIGK_cN-803?usp=sharing)
+
+[**03.1 Function and Data Structure in R - 14/01/2026**]
+- Practice 3.1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t5roYNB9MdHUm3CqIEUzQ9ron7DoHVX_)
