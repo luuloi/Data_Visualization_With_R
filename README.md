@@ -25,11 +25,14 @@
 [**02.0 Histogram [Loi] - 10/12/2025**](Lecture_02/)
 - [PDF](Lecture_02/DV_Leture_02_Histogram.pdf)
   
-[**02.1 Practice - 24/12/2025**]
+**02.1 Practice - 24/12/2025**
 - Data for Practice2 (1000 samples) :[DATA: sample size 1000](https://github.com/luuloi/Data_Visualization_With_R/blob/main/work.csv)
 - Data for Practice2 (10,000 samples) :[DATA: sample size 10,000](https://github.com/luuloi/Data_Visualization_With_R/blob/main/work_10000.csv)
 - Practice 2.1 (1000 samples): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cNF8wBMGcra6Nri_0EYCxKa5sXpoxdxc?usp=sharing)
 - Practice 2.2 (10,000 samples): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19oGLPQEbKkR_kl9Uc5jlpGIGK_cN-803?usp=sharing)
 
-[**03.1 Function and Data Structure in R - 14/01/2026**]
-- Practice 3.1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t5roYNB9MdHUm3CqIEUzQ9ron7DoHVX_)
+## [**03. R Programming Basic Concepts [Loi] - 14/01/2026**](Lecture_03/)
+- [PDF](Lecture_03/L03-Basics.pdf)
+- [How to install R and Rstudio](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu)
+- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0?usp=sharing)
+
