@@ -34,5 +34,5 @@
 [**03. R Programming Basic Concepts [Loi] - 14/01/2026**](Lecture_03/)
 - [PDF](Lecture_03/L03-Basics.pdf)
 - [How to install R and Rstudio](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu)
-- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0?usp=sharing)
+- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f3JxcCKjErjdN5p9LKFPLykx7QO2wQcM?usp=sharing)
 
