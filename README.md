@@ -31,7 +31,7 @@
 - Practice 2.1 (1000 samples): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cNF8wBMGcra6Nri_0EYCxKa5sXpoxdxc?usp=sharing)
 - Practice 2.2 (10,000 samples): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19oGLPQEbKkR_kl9Uc5jlpGIGK_cN-803?usp=sharing)
 
-## [**03. R Programming Basic Concepts [Loi] - 14/01/2026**](Lecture_03/)
+[**03. R Programming Basic Concepts [Loi] - 14/01/2026**](Lecture_03/)
 - [PDF](Lecture_03/L03-Basics.pdf)
 - [How to install R and Rstudio](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0?usp=sharing)
