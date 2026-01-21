@@ -8,7 +8,7 @@
 
 [**00.1 Practice [Dan] - 19/11/2025**](Lecture_00/)
 - [PDF](Lecture_00/Ubuntu_and_basic_Linux_command_part1_and_part2.pdf)
-- Installation R & Rstudio
+- [How to install R and Rstudio](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu)
 - Basic R
 - Introduction to Google Colab 
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDkFCRbM0aS6Z8tFOpXEI2AQ4LO0IK2E?usp=sharing)
@@ -33,6 +33,12 @@
 
 [**03. R Programming Basic Concepts [Loi] - 14/01/2026**](Lecture_03/)
 - [PDF](Lecture_03/L03-Basics.pdf)
-- [How to install R and Rstudio](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f3JxcCKjErjdN5p9LKFPLykx7QO2wQcM?usp=sharing)
 
+[**04. Patterned Vector in R [Loi] - 21/01/2026**]
+- [PDF](Lecture_03/L03-Basics.pdf)
+- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11Qp2EggwwCCa8XNMVQZhipWInb9jysnY?usp=sharing)
+ 
+[**05. Control Flow and Function [Loi] - 21/01/2026**]
+- [PDF](Lecture_03/L03-Basics.pdf)
+- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IUStyZ_KoCC7WKAf4zcNZGGPp4wzbKb4?usp=sharing)
