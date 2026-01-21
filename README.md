@@ -35,10 +35,10 @@
 - [PDF](Lecture_03/L03-Basics.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f3JxcCKjErjdN5p9LKFPLykx7QO2wQcM?usp=sharing)
 
-[**04. Patterned Vector in R [Loi] - 21/01/2026**]
-- [PDF](Lecture_03/L03-Basics.pdf)
+[**04. Patterned Vector in R [Loi] - 21/01/2026**](Lecture_04/)
+- [PDF](Lecture_04/L04-Paterned-Vectors.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11Qp2EggwwCCa8XNMVQZhipWInb9jysnY?usp=sharing)
  
-[**05. Control Flow and Function [Loi] - 21/01/2026**]
-- [PDF](Lecture_03/L03-Basics.pdf)
+[**05. Control Flow and Function [Loi] - 21/01/2026**](Lecture_05/)
+- [PDF](Lecture_05/L05-Control-Flow-and-Function.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IUStyZ_KoCC7WKAf4zcNZGGPp4wzbKb4?usp=sharing)
