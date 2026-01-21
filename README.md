@@ -42,3 +42,6 @@
 [**05. Control Flow and Function [Loi] - 21/01/2026**](Lecture_05/)
 - [PDF](Lecture_05/L05-Control-Flow-and-Function.pdf)
 - Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IUStyZ_KoCC7WKAf4zcNZGGPp4wzbKb4?usp=sharing)
+
+[**06. Matrices [Loi] - 21/01/2026**](Lecture_06/)
+- - [PDF](Lecture_06/L06-Matrices.pdf)
