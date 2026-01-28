@@ -57,6 +57,7 @@
 [**06. Matrices [Loi] - 28/01/2026**](Lecture_06/)
 
 - [PDF](Lecture_06/L06-Matrices.pdf)
+- Lecture: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12EMGsRXPI2izHQaXn9WdBwxgkVqh2XyX?usp=sharing)
 - Lab Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tJNlEcwNOzR_nLTLjCnEQw5VuDahER3n?usp=sharing)
 
 
