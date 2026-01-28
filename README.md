@@ -47,18 +47,21 @@
 [**04. Patterned Vector in R [Loi] - 21/01/2026**](Lecture_04/)
 
 - [PDF](Lecture_04/L04-Paterned-Vectors.pdf)
-- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11Qp2EggwwCCa8XNMVQZhipWInb9jysnY?usp=sharing)
+- Lecture: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11Qp2EggwwCCa8XNMVQZhipWInb9jysnY?usp=sharing)
 
 [**05. Control Flow and Function [Loi] - 28/01/2026**](Lecture_05/)
 
 - [PDF](Lecture_05/L05-Control-Flow-and-Function.pdf)
-- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IUStyZ_KoCC7WKAf4zcNZGGPp4wzbKb4?usp=sharing)
+- Lecture: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IUStyZ_KoCC7WKAf4zcNZGGPp4wzbKb4?usp=sharing)
 
 [**06. Matrices [Loi] - 28/01/2026**](Lecture_06/)
 
 - [PDF](Lecture_06/L06-Matrices.pdf)
+- Lab Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tJNlEcwNOzR_nLTLjCnEQw5VuDahER3n?usp=sharing)
+
 
 [**07. Factors and Data Frames [Loi] - 21/01/2026**](Lecture_07/)
 
 - [PDF](Lecture_07/L07_Data_Handling.pdf)
-- Lab Exercises: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KUNNk7k7gt7MGr-WsG1H9nf9EmFrGp3l?usp=sharing)
+- Lecture: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KUNNk7k7gt7MGr-WsG1H9nf9EmFrGp3l?usp=sharing)
+- Lab Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GGx69JJa6SoodlaSYk6peE1AOgpYeUbU#scrollTo=k69v6WAp84hd)
