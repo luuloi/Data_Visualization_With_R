@@ -68,4 +68,7 @@
 - Lab Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GGx69JJa6SoodlaSYk6peE1AOgpYeUbU#scrollTo=k69v6WAp84hd)
 
 [**08. Scatter plot, Alluvialplot and Table [Loi] - 22/04/2026**](Lecture_08/)
+- [Data for Practice 1](Lecture_08/ivf.dta)
+- [Data for Practice 2](Lecture_08/leukemia_gehan.dta)
+- [Data for Practice 3](Lecture_08/Osteo_data.csv)
 - Lab Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tUGnY6TAhmP-c9T9SJdVQtEcibiIzrKz?usp=sharing)
