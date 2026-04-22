@@ -71,4 +71,5 @@
 - [Data for Practice 1](Lecture_08/ivf.dta)
 - [Data for Practice 2](Lecture_08/leukemia_gehan.dta)
 - [Data for Practice 3](Lecture_08/Osteo_data.csv)
-- Lab Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tUGnY6TAhmP-c9T9SJdVQtEcibiIzrKz?usp=sharing)
+- Lab Exercise 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KZ7BW161PVzz2SfaiJ7rLjYCAiOwXtSB?usp=sharing)
+- Lab Exercise 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tUGnY6TAhmP-c9T9SJdVQtEcibiIzrKz?usp=sharing) 
