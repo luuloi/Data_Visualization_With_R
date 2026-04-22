@@ -68,4 +68,4 @@
 - Lab Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GGx69JJa6SoodlaSYk6peE1AOgpYeUbU#scrollTo=k69v6WAp84hd)
 
 [**08. Scatter plot, Alluvialplot and Table [Loi] - 22/04/2026**](Lecture_08/)
-Lab Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tUGnY6TAhmP-c9T9SJdVQtEcibiIzrKz?usp=sharing)
+- Lab Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tUGnY6TAhmP-c9T9SJdVQtEcibiIzrKz?usp=sharing)
